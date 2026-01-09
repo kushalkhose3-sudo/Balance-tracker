@@ -20,10 +20,5 @@ This project helps users manage their balance by allowing deposits, withdrawals,
 - Python 3
 - Object-Oriented Programming (Classes & Objects)
 
----
 
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kushalkhose3-sudo/Balance-tracker.git
 
